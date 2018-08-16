@@ -1,0 +1,3 @@
+build/
+deps/gtk-binaries/*
+!deps/gtk-binaries/.gitkeep
